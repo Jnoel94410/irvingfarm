@@ -1,0 +1,157 @@
+body {
+	font-family: sans-serif;
+}
+
+.banner {
+	background-image: url(images/home_main_desktop.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+	height: 400px;
+
+}
+
+.banner button {
+	background-color: white;
+	color: black;
+	border: 0px;
+	border-radius: 2px;
+	width: 150px;
+	height: 35px;
+	margin-top: 210px;
+	margin-left: 43%;
+}
+
+.banner p {
+	color: white;
+	text-align: center;
+}
+
+.hero-black {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.hero-black p {
+	margin: 0px;
+	display: inline-block;
+	color: white;
+	font-weight: lighter;
+	font-size: 15px;
+}
+
+.hero-list {
+	background-color: white;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.hero-list img {
+	width: 150px;
+	height: 125px;
+}
+
+.hero-list ul {
+
+display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.hero-list ul li {
+	display: inline-block;
+	font-size: 15px;
+	font-weight: bolder;
+	margin: 0 auto;
+
+}
+
+.hero_banner_img {
+	width: 100%;
+	height: 250px;
+	background-color: #E1E1E1;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+
+}
+
+
+
+.hero_banner_img img {
+	width: 225px;
+	height: 175px;
+
+}
+
+.img_one {
+	width: 225px;
+	display: flex;
+	flex-direction: column;
+	margin: 0 20px;
+
+}
+
+.img_one p {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	background-color: white;
+	margin: 0px;
+	text-align: center;
+}
+
+.banner_honduras {
+	background-image: url(images/slideshow-1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 325px;
+	display: flex;
+	align-items: center;
+}
+
+.honduras {
+	width: 400px;
+	height: 200px;
+	background-color: white;
+	margin-left: 50%;
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+}
+
+.banner_wholesale {
+	width: 100%;
+	height: 350px;
+}
+
+.wholesale {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	border: 3px solid black;
+	margin-left: 25%;
+	margin-top: 40px;
+}
+
+.img_wholesale {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+.img_wholesale img {
+	width: 250px;
+	height: 250px;
+}
+
+.newsletter {
+	width: 100%;
+	height: 100px;
+	background-color: #ebebeb;
+}
